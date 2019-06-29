@@ -1,1 +1,1 @@
-FROM 10.13-alpine AS base
+FROM node:10.13-alpine AS base
